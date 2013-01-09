@@ -1,9 +1,9 @@
-
 #include <stdio.h>
 
 void main(void) {
-	int sum;
+	int sum,a;
 	sum = 15 + 37;
-	sum = sum - 1;
+	a = sum + 125
+	
 	printf("%d\n",sum);
 }
