@@ -4,5 +4,5 @@
 void main(void) {
 	int sum;
 	sum = 15 + 37;
-	printf("\n",sum);
+	printf("%d\n",sum);
 }
